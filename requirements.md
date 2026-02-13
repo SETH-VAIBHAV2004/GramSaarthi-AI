@@ -2,8 +2,7 @@
 
 ## Requirements Document
 
-**Version:** 1.0  
-**Date:** February 13, 2026  
+**Version:** 1.0   
 **Project Type:** National AI Hackathon Submission  
 
 ---

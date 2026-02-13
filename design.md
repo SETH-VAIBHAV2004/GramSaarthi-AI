@@ -1,7 +1,6 @@
 # GramSaarthi AI – System Design Document
 
 **Version:** 1.0  
-**Date:** February 13, 2026  
 **Project:** Voice-First Panchayat Decision Intelligence System  
 **Document Type:** Technical Architecture & Design Specification
 
