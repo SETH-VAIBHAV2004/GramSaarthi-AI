@@ -1,0 +1,47 @@
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts (for future development)
+build/
+dist/
+*.apk
+*.aab
+
+# Dependencies (for future development)
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Database files (for future development)
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive data
+secrets/
+credentials/
+*.key
+*.pem
